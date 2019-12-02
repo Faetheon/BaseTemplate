@@ -7,10 +7,8 @@ All you need to use this is the latest version of [node](https://nodejs.org/en/)
 
 # Required knowledge
 Know how to navigate your filesystem through a CLI (Command Line Interface)
-
-[Windows CLI cheatsheet](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
-
-[Unix CLI cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet#english-version)
+* [Windows CLI cheatsheet](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
+* [Unix CLI cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet#english-version)
 
 # Quickstart
 1. Fork and clone this repo or download it directly.
