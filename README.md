@@ -20,6 +20,6 @@ Know how to navigate your filesystem through a CLI (Command Line Interface)
 5. In one of the instances type npm run dev:start and npm run dev:build in the other instance.
 6. Open a browser and type localhost:3000 into the url and voila! Hello world.
 
-If you want to make changes to the html go to react/src/components/App.jsx.
-If you want to change the styling go to react/dist/index.css.
-If you want to change the server go to server/index.js.
+* If you want to make changes to the html go to react/src/components/App.jsx.
+* If you want to change the styling go to react/dist/index.css.
+* If you want to change the server go to server/index.js.
