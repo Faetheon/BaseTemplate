@@ -12,7 +12,7 @@ Know how to navigate your filesystem through a CLI (Command Line Interface)
 
 # Quickstart
 1. Fork and clone this repo or download it directly.
-2. Once downloaded open your CLI (Command Line Interface) and navigate to where your folder is downloaded.
+2. When you finish cloning/downloading it open your CLI (Command Line Interface) and navigate to where your folder is downloaded.
 3. Run npm install to install required packages
 4. Open another instance of your CLI and navigate to the same place.
 5. In one of the instances type npm run dev:start and npm run dev:build in the other instance.
